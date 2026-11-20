@@ -6,7 +6,7 @@
 langsung. Resepsionis memanggil dengan satu klik, dan layar TV ruang tunggu menampilkan sekaligus
 menyuarakan nomor yang dipanggil.
 
-**Demo:** `https://DOMAIN-DEMO` (isi setelah deploy) · Tidak perlu daftar, cukup tekan **Masuk sebagai (demo)** di halaman login.
+**Demo:** [antresehat.vercel.app](https://antresehat.vercel.app) · Tidak perlu daftar, cukup tekan **Masuk sebagai (demo)** di halaman login.
 
 > Demo portofolio. Semua data fiktif dan bukan untuk penggunaan medis.
 
@@ -18,8 +18,8 @@ menyuarakan nomor yang dipanggil.
 
 ## Skenario demo 1 menit
 
-1. Buka [`/display`](https://DOMAIN-DEMO/display) di satu jendela, lalu klik **Aktifkan suara**.
-2. Di jendela lain, buka [`/login`](https://DOMAIN-DEMO/login) → **Masuk sebagai Resepsionis**.
+1. Buka [`/display`](https://antresehat.vercel.app/display) di satu jendela, lalu klik **Aktifkan suara**.
+2. Di jendela lain, buka [`/login`](https://antresehat.vercel.app/login) → **Masuk sebagai Resepsionis**.
 3. Letakkan kedua jendela berdampingan, lalu klik **Panggil berikutnya** di salah satu kartu dokter.
 4. Dalam ±1 detik layar TV berganti nomor, bunyi bel, dan menyuarakan *"Nomor antrean U, dua, silakan ke Poli Umum"*.
 5. Masuk sebagai **Pasien** di HP. Tiket `U-xxx` menunjukkan posisi dan perkiraan jam dilayani. Status tiket ikut berubah saat dipanggil.
