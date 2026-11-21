@@ -45,7 +45,7 @@ export default async function Page({ searchParams }: { searchParams: Promise<Rec
         )}
       </div>
 
-      <form className="neu-raised mt-6 grid gap-3 rounded-3xl p-4 sm:grid-cols-2 lg:grid-cols-[9.5rem_9.5rem_1fr_1fr_auto] lg:items-end">
+      <form className="neu-raised mt-6 grid grid-cols-1 gap-3 rounded-3xl p-4 sm:grid-cols-2 lg:grid-cols-[9.5rem_9.5rem_1fr_1fr_auto] lg:items-end">
         <div className="grid gap-1.5">
           <label htmlFor="dari" className="text-xs text-muted-foreground">Dari</label>
           <Input id="dari" name="dari" type="date" defaultValue={f.dari} />
